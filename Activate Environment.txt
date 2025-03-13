@@ -1,0 +1,3 @@
+ACTIVATE THE VIRTUAL ENVIRONMENT :-
+
+qiskit-env\Scripts\activate
