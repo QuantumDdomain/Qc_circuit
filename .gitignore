@@ -1,0 +1,12 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore virtual environment
+qiskit-env/
+
+# Ignore Jupyter notebook checkpoints
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore large files (PDFs, etc.)
+*.pdf
